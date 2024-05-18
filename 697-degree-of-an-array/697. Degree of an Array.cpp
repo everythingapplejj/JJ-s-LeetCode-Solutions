@@ -1,86 +1,41 @@
+using namespace std;
 class Solution {
 public:
     int findShortestSubArray(vector<int>& nums) {
-        std::unordered_map<int, int>lookup;
-        for(unsigned int i = 0; i < nums.size(); i++) {
-            if(lookup.find(nums[i]) == lookup.end()) {
-                lookup[nums[i]] = 1; 
-                continue; 
-            }
-            lookup[nums[i]]++; 
+        int n = nums.size();
+        if (n == 1) {
+            return 1;
         }
-        std::vector<int> maximum;
-        int second = 0; 
-        for(auto it = lookup.begin(); it != lookup.end(); ++it) {
-            if(it -> second > second) {
-                second = it -> second; 
-                continue; 
+        typedef struct ElementInfo {
+            int l;
+            int r;
+            int deg;
+        } node;
+        // key: value, int[0] = l, int[1] = r, int[2] = deg.
+        unordered_map<int, node> m_map;
+        int max_deg = 0;
+        int min_length = 1;
+        // go through nums
+        for (int i = 0; i < n; i++) {
+            int value = nums[i];
+            // if not currently hashed
+            if (!m_map.count(value)) {
+                m_map[value] = {i, i, 1};
+            // alr hashed, increment
+            } else {
+                m_map[value].r = i;
+                (m_map[value].deg)++;
             }
-        }
-        for(auto it = lookup.begin(); it != lookup.end(); ++it) {
-            if(it -> second == second) {
-                maximum.push_back(it -> first); 
-            }
-        }
-        
-        int flag = 0; 
-        int counter = second; 
-        //std::cout << "Chosen Number: "<< first << std::endl;
-        std::cout << "Number Frequency: " << counter << std::endl; 
-        std::cout << "Vector Length: " << nums.size() << std::endl;
-        int returning = nums.size(); 
-        /*
-        for(unsigned int i = 0; i < nums.size(); i++) {
-            if(counter == 0) {
-                break; 
-            }
-            if(nums[i] == first && flag == 0) {
-                flag = 1; 
-                counter--; 
-                returning++; 
-                continue; 
-            }
-            if(nums[i] == first && flag == 1) {
-                counter--; 
-                returning++; 
-                continue; 
-            }
-            if(flag == 1) {
-                returning++; 
-                continue; 
+            int deg = m_map[value].deg;
+            int length = m_map[value].r - m_map[value].l + 1;
+            // updated max
+            if (deg > max_deg) {
+                max_deg = deg;
+                min_length = length;
+            } else if (deg == max_deg) {
+                min_length = min(min_length, length);
             }
         }
-        */
-        for(unsigned int i = 0; i < maximum.size(); i++) {
-            int placeholder = 0;
-            flag = 0; 
-            counter = second; 
-            for(unsigned int j = 0; j < nums.size(); j++) {
-                  if(counter == 0) {
-                break; 
-            }
-            if(nums[j] == maximum[i] && flag == 0) {
-                flag = 1; 
-                counter--; 
-                placeholder++; 
-                continue; 
-            }
-            if(nums[j] == maximum[i] && flag == 1) {
-                counter--; 
-                placeholder++; 
-                continue; 
-            }
-            if(flag == 1) {
-                placeholder++; 
-                continue; 
-            }
-            }
-            std::cout << "passing" << std::endl;
-            std::cout << placeholder << std::endl; 
-            if(placeholder < returning) {
-                returning = placeholder; 
-            }
-        }
-        return returning; 
+        return min_length;
     }
 };
