@@ -41,9 +41,7 @@ public:
             
         }
         }
-        for(unsigned int i = 0; i < flowerbed.size(); i++) {
-            std::cout << flowerbed[i] << " ";
-        }
+        
         if(n == 0) {
             return true; 
         } else {
