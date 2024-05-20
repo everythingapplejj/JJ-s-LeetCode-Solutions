@@ -1,25 +1,51 @@
 class Solution {
 public:
-    bool canPlaceFlowers(vector<int>& f, int n) {
-        int i = 0;
-        int m = f.size();
-        while (n > 0 && i < m) {
-            if (f[i] == 0) {
-                int l = i;
-                if (l - 1 != -1) {
-                    l -= 1;
-                }
-                int r = i;
-                if (r + 1 != m) {
-                    r += 1;
-                }
-                if (!f[r] && !f[l]) {
-                    n--;
-                    f[i] = 1;
-                }
+    bool canPlaceFlowers(vector<int>& flowerbed, int n) {
+        for(unsigned int i = 0; i < flowerbed.size(); i++) {
+            if(n == 0) {
+                break; 
             }
-            i++;
+        if(flowerbed[i] == 1) {
+            i++; 
+            continue; 
         }
-        return !n;
+        if(i == 0) {
+            if(i + 1 >= flowerbed.size()) {
+                flowerbed[i] = 1;
+                n--;
+                continue;
+            }
+            if(flowerbed[i + 1] != 1) {
+                flowerbed[i] = 1;
+                n--;
+                continue; 
+                //std::cout << "passing" << std::endl; 
+            }
+            continue; 
+        } else {
+            if(i + 1 >= flowerbed.size()) {
+                if(flowerbed[i - 1] != 1) {
+                    flowerbed[i] = 1;
+                    n--;
+                    break; 
+                }
+            } else {
+                //std::cout << i << std::endl;
+                if(flowerbed[i - 1] != 1 && flowerbed[i + 1] != 1) {
+                flowerbed[i] = 1;
+                n--;
+                continue; 
+            }
+
+            }
+            
+        }
+        }
+        
+        if(n == 0) {
+            return true; 
+        } else {
+            return false; 
+        }
     }
 };
