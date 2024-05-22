@@ -17,7 +17,7 @@ public:
         for(j = 0; j < grid[i].size() - 1; j++) {
             if(grid[i][j] == grid[i][j + 1]) {
                     return false; 
-                }
+            }
         }
         return true; 
     }
