@@ -10,7 +10,6 @@ public:
             return false;
         }
         tot = n * 1000000 + (n * 3) * 1000 + n * 2;
-        std::cout << tot << std::endl; 
         while(tot != 0) {
             int placeholder = tot % 10; 
             tot = tot/10; 
