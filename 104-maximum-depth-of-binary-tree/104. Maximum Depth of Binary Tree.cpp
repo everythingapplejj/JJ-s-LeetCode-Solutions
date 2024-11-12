@@ -12,25 +12,22 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        if (root == nullptr) {
-            return 0; 
+        if(root == nullptr) {
+            return 0;
         }
-        if (root -> right == nullptr && root -> left == nullptr) {
-            //std::cout << "Passing" << std::endl; 
+        if(root -> left == nullptr && root -> right == nullptr) {
             return 1; 
         }
-        if (root -> right == nullptr && root -> left != nullptr) {
-            std::cout << "Passing" << std::endl; 
-            return (1 + maxDepth(root -> left));
+        if(root -> left != nullptr && root -> right == nullptr) {
+            return 1 + maxDepth(root -> left); 
         }
-        if (root -> right != nullptr && root -> left == nullptr) {
-            return (1 + maxDepth(root -> right));
+        if(root -> left == nullptr && root -> right != nullptr) {
+            return 1 + maxDepth(root -> right);
         }
 
-        int left = maxDepth(root -> left);
-        int right = maxDepth(root -> right);
+        int left_depth = maxDepth(root -> left); 
+        int right_depth = maxDepth(root -> right);
 
-        return (1 + std::max(left, right)); 
-
+        return 1 + std::max(left_depth, right_depth); 
     }
 };
