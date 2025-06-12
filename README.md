@@ -6,6 +6,7 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0137-single-number-ii](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -32,5 +33,6 @@ JJ's LeetCode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
