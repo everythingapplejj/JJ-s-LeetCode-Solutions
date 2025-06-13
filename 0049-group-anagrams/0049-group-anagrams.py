@@ -1,51 +1,44 @@
-
-def sort_alphabet(word):
-    return ''.join(sorted(word))
-
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-     
+        # For anagrams I do want to have each pointers to be in lexigraphical order
+        # edge case is that there might be only zero or one
+    
 
-        if(len(strs) == 0):
-            return strs
+        binary_checker = []
+        sorted_list = []
 
-        if(len(strs) == 1):
-            returning = []
-            returning.append(strs)
-            return returning
+        final_return = []
 
-        # base case is done 
+        if (len(strs) == 1):
+            final_return.append(strs)
+            return final_return
 
-        final_list = [] # same list 
-        sorted_list = [] # same length list
-        boolean = []
-        for elements in strs:
-            boolean.append(0) # this is to specify that the groupings has been done already
-            sorted_list.append(sort_alphabet(elements))
 
         for i in range(0, len(strs)):
-            placeholder = [] # defining placeholder list here
-            if(i == len(strs) - 1):
-                if(boolean[i] == 0):
-                    placeholder.append(strs[i])
-                    final_list.append(placeholder)
-                break
-            if(boolean[i] == 0):
-                boolean[i] = 1
+            binary_checker.append(0)
+            sorted_list.append("".join(sorted(strs[i])))
+        
+        for i in range(0, len(strs)):
+            placeholder = []
+            if(binary_checker[i] == 0):
                 placeholder.append(strs[i])
-                print(strs[i])
+                binary_checker[i] = 1
+                # can have edge case at the end
+                if(i == len(strs) - 1):
+                    final_return.append(placeholder)
+                    break
+            else:
+                continue
             for j in range(i + 1, len(strs)):
-                # naive case:
-                if(sorted_list[i] == sorted_list[j] and boolean[j] == 0):
-                    boolean[j] = 1
+                if(sorted_list[i] == sorted_list[j] and binary_checker[j] == 0):
+                    binary_checker[j] = 1
                     placeholder.append(strs[j])
-            if(len(placeholder) != 0):
-                final_list.append(placeholder)
             
+            final_return.append(placeholder)
+        
+        
 
-        return final_list
-
-
+        return final_return
 
         
         
