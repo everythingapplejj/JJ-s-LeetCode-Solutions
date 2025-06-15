@@ -71,4 +71,20 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
