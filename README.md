@@ -16,6 +16,7 @@ JJ's LeetCode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Tree
 |  |
 | ------- |
@@ -87,4 +89,8 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
