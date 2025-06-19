@@ -1,24 +1,27 @@
+# for this attempt, I will be using the two pointer method, and should be increasing like gradient like
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        # maybe attempt to try insertion method? 
         getter = []
-        pulses = 0
-        if(target > 0 and len(numbers) > 100):
-            pulses = 1
-
-        start = 0
+        if(len(numbers) == 0 or len(numbers) == 1):
+            return getter
         
-        if(pulses == 1):
-            for i in range(0, len(numbers)):
-                if(numbers[i] >= 0):
-                    start = i
-                    break
+        # in this case it is longer or equal to two 
 
-        for i in range(start, len(numbers) - 1):
-            for j in range(i + 1, len(numbers)):
-                if(numbers[i] + numbers[j] == target):
-                    getter.append(i + 1)
-                    getter.append(j + 1)
-                    return getter
+        first_ptr = 0
+        last_ptr = len(numbers) - 1
+        
+        while(last_ptr > first_ptr):
+            if(numbers[last_ptr] + numbers[first_ptr] == target):
+                getter.append(first_ptr + 1)
+                getter.append(last_ptr + 1)
+                return getter
+            elif (numbers[last_ptr] + numbers[first_ptr] < target):
+                first_ptr = first_ptr + 1
+                continue
 
+            else:
+                last_ptr = last_ptr - 1
+                continue
+        
         return getter
+        
