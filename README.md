@@ -7,6 +7,7 @@ JJ's LeetCode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ JJ's LeetCode Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -125,4 +127,8 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
