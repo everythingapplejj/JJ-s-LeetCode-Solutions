@@ -100,6 +100,7 @@ JJ's LeetCode Solutions
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Merge Sort
 |  |
@@ -113,4 +114,8 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0948-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
