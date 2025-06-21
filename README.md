@@ -87,10 +87,12 @@ JJ's LeetCode Solutions
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -99,6 +101,7 @@ JJ's LeetCode Solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Linked List
 |  |
@@ -131,4 +134,8 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
