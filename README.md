@@ -46,6 +46,7 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ JJ's LeetCode Solutions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -143,4 +145,12 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
