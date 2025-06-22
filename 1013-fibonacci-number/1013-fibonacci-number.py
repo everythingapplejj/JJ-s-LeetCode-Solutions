@@ -5,7 +5,7 @@ class Solution:
         # This is just naive method 
         # Looking at the base cases without memoization
         
-        #base case
+        #base case, now this is using memoization
 
         if(n == 0):
             self.global_dict.update({n: 0})
