@@ -137,6 +137,7 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Matrix
 |  |
 | ------- |
@@ -153,4 +154,8 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
