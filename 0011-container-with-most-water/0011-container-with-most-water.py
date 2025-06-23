@@ -14,7 +14,7 @@ class Solution:
             curr_area = width * height
             if(curr_area > best_size):
                 best_size = curr_area
-            # i need to try all variant but want larger size, so iterate but with greedy
+            # i need to try all variant but want larger size, so iterate but with greedy (constraints, and what is greedy about?)
             if(heights[first_ptr] >= heights[second_ptr]):
                 # second is smaller so update, 
                 second_ptr -= 1
