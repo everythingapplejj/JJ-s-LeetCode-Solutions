@@ -15,7 +15,7 @@ class Solution:
             number_collection.append(abs(x) % 10)
             x = int(abs(x)/10)
 
-        print(number_collection)
+        # print(number_collection)
 
         construct = 0
 
