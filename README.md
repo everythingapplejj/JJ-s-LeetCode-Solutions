@@ -49,6 +49,7 @@ JJ's LeetCode Solutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Binary Search
