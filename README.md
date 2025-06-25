@@ -33,6 +33,7 @@ JJ's LeetCode Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -50,6 +51,7 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -173,4 +175,8 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
