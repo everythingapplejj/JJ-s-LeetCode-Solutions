@@ -42,6 +42,7 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -71,6 +72,7 @@ JJ's LeetCode Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -100,6 +102,7 @@ JJ's LeetCode Solutions
 | [0011-container-with-most-water](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Tree
 |  |
@@ -125,10 +128,12 @@ JJ's LeetCode Solutions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
