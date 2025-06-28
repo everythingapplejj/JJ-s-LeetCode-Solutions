@@ -9,6 +9,7 @@ JJ's LeetCode Solutions
 | [0011-container-with-most-water](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -25,6 +26,7 @@ JJ's LeetCode Solutions
 | [0001-two-sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -161,6 +163,7 @@ JJ's LeetCode Solutions
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search Tree
 |  |
