@@ -115,20 +115,24 @@ JJ's LeetCode Solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Linked List
 |  |
 | ------- |
