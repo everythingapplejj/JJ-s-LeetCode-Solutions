@@ -116,12 +116,14 @@ JJ's LeetCode Solutions
 | [0098-validate-binary-search-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ JJ's LeetCode Solutions
 | [0098-validate-binary-search-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -197,4 +200,12 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0043-multiply-strings) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
