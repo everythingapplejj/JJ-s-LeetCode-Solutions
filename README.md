@@ -19,6 +19,7 @@ JJ's LeetCode Solutions
 | [0229-majority-element-ii](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0792-binary-search](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ JJ's LeetCode Solutions
 | [0074-search-a-2d-matrix](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
