@@ -11,6 +11,7 @@ JJ's LeetCode Solutions
 | [0049-group-anagrams](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,6 +74,7 @@ JJ's LeetCode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -217,4 +219,8 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
