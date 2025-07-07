@@ -124,6 +124,7 @@ JJ's LeetCode Solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -132,6 +133,7 @@ JJ's LeetCode Solutions
 | [0100-same-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -147,6 +149,7 @@ JJ's LeetCode Solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
