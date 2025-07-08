@@ -23,6 +23,7 @@ JJ's LeetCode Solutions
 | [0347-top-k-frequent-elements](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ JJ's LeetCode Solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
