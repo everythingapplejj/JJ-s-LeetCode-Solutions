@@ -33,6 +33,7 @@ JJ's LeetCode Solutions
 | [0049-group-anagrams](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -64,6 +65,7 @@ JJ's LeetCode Solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0202-happy-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -120,6 +122,7 @@ JJ's LeetCode Solutions
 | [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Tree
 |  |
 | ------- |
