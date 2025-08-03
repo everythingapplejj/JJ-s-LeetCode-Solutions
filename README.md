@@ -8,6 +8,7 @@ JJ's LeetCode Solutions
 | [0001-two-sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -53,6 +54,7 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -121,6 +123,7 @@ JJ's LeetCode Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0148-sort-list) |
