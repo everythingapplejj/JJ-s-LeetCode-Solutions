@@ -124,6 +124,7 @@ JJ's LeetCode Solutions
 | [0011-container-with-most-water](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -168,6 +169,7 @@ JJ's LeetCode Solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/everythingapplejj/JJ-s-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
